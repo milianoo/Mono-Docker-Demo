@@ -1,0 +1,5 @@
+/Users/miladrk/Development/Projects/DockerDemoApp/DockerDemoApp/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/miladrk/Development/Projects/DockerDemoApp/DockerDemoApp/bin/Debug/DockerDemoApp.exe.mdb
+/Users/miladrk/Development/Projects/DockerDemoApp/DockerDemoApp/bin/Debug/DockerDemoApp.exe
+/Users/miladrk/Development/Projects/DockerDemoApp/DockerDemoApp/obj/x86/Debug/DockerDemoApp.exe
+/Users/miladrk/Development/Projects/DockerDemoApp/DockerDemoApp/obj/x86/Debug/DockerDemoApp.exe.mdb

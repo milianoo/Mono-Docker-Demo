@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DockerDemoApp/DockerDemoApp.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DockerDemoApp/Dockerfile">
+    <Files>
+      <File FileName="DockerDemoApp/Program.cs" Line="13" Column="1" />
+      <File FileName="DockerDemoApp/Dockerfile" Line="6" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DockerDemoApp PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
